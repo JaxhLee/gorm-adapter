@@ -1,6 +1,6 @@
-module github.com/casbin/gorm-adapter/v3
+module github.com/JaxhLee/gorm-adapter/v3
 
-go 1.14
+go 1.18
 
 require (
 	github.com/casbin/casbin/v2 v2.37.4
